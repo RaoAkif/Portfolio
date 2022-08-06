@@ -2,8 +2,7 @@
 
 > This is the webpage that contains the list of all of my Portfolio projects. 
 
-![Portfolio](https://user-images.githubusercontent.com/61361037/167278658-94855b98-669f-4097-b008-b4fc08dfdcfd.PNG)
-
+![Portfolio](https://user-images.githubusercontent.com/61361037/183268402-9c2d5ded-33d8-414e-8eb2-5b39fb81609a.PNG)
 
 ## Built With
 
