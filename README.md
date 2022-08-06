@@ -2,9 +2,9 @@
 
 > This is the webpage that contains the list of all of my Portfolio projects. 
 
-![Portfolio](https://user-images.githubusercontent.com/61361037/183268402-9c2d5ded-33d8-414e-8eb2-5b39fb81609a.PNG)
-
-## Built With
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61361037/183268922-3789459e-26e1-4df2-aca4-3b47a943bc7e.png" />
+</p>
 
 - HTML, CSS & JS
 
